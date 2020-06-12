@@ -1,2 +1,2 @@
-# communication_structuree
+# Communication Structuree
 Calcul de la communication structurée belge
