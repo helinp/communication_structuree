@@ -3,8 +3,8 @@
 /**
  * Calculate a bank belgian structured communication from 10 digits number.
  *
- * @param string 	$number a 10 digits number
- * @param boolean $format format like +++ 123 / 1234 / 12345 +++
+ * @param string	$number a 10 digits number
+ * @param boolean	$format format like +++ 123 / 1234 / 12345 +++
  *
  * @return string
  */
